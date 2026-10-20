@@ -2,3 +2,10 @@ answer.py
 command.bat
 input.txt
 interactive.py
+
+# Jupyter チェックポイント
+.ipynb_checkpoints/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
